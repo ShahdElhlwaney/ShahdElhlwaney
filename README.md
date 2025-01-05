@@ -91,7 +91,7 @@
 <div align="center">
 
 <a href="https://github.com/ShahdElhlwaney/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahdElhlwaney_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahdElhlwaney_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="ShahdElhlwaney"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahdElhlwaney&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ShahdElhlwaney"/>
 
 </a>
@@ -106,7 +106,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/ShahdElhlwaney/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/ShahdElhlwaney/ShahdElhlwaney/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
